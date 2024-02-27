@@ -8,4 +8,4 @@
 
 🌱 My tech stack includes Java, JavaScript, CSS, HTML, MySQL, PostgreSQL, Git, JUnit, Mockito, and Maven. I'm constantly learning and exploring new technologies to broaden my expertise.
 
-🔭 Connect with me on [[X/Twitter]](https://twitter.com/andreiacribeir.) to follow my tech journey and engage in meaningful discussions!
+🔭 Connect with me on [[X/Twitter]](https://twitter.com/andreiacribeir) to follow my tech journey and engage in meaningful discussions!
