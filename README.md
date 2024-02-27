@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-### I'm a self-taught developer, currently in a career transition from recruitment to software development. I'm passionate about problem-solving and technology.
+### I'm Andreia, a self-taught developer on a journey from recruitment to software development, driven by a passion for problem-solving and technology.
 
-My background:
+🧠 I graduated in Psychology from the University of Minho and I have 4 years of experience working in recruitment. I'm a people person and thrive the most working in a fast-paced and multicultural environment. As a recruiter, I have gained experience in project management, mentoring team members, and implementing efficient processes. My time in recruitment exposed me to diverse tech roles, sparking my curiosity about programming and technology.
 
-🧠 Graduated in Psychology and 4 years experience working in recruitment.
+🖥️ Currently, I'm developing my skills through an intensive full-stack Bootcamp with Code for All_, Academia de Código, specializing in Java and JavaScript.
 
-🖥️ I'm currently doing an intensive full-stack Bootcamp with Code for All_, Academia de Código, focused on Java and Javascript.
+🌱 My tech stack includes Java, JavaScript, CSS, HTML, MySQL, PostgreSQL, Git, JUnit, Mockito, and Maven. I'm constantly learning and exploring new technologies to broaden my expertise.
 
-🔭 You can find my tech journey at my X/Twitter: https://twitter.com/andreiacribeir.
-
-🌱 My tech stack: Java, Javascript, CSS, HTML, MySQL, PostgreSQL, Git, JUnit, Mockito, and Maven.
-
+🔭 Connect with me on [[X/Twitter]](https://twitter.com/andreiacribeir.) to follow my tech journey and engage in meaningful discussions!
