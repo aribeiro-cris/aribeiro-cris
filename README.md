@@ -6,7 +6,7 @@
 
 🖥️ Currently, I'm developing my skills through an intensive full-stack Bootcamp with Code for All_, Academia de Código, specializing in Java Web Applications.
 
-🌱 My tech stack includes Java, JavaScript, CSS, HTML, SQL, Spring Framework, Spring MVC, JUnit, Mockito, Maven, and Git. I'm constantly learning and exploring new technologies to broaden my expertise.
+🌱 My tech stack includes Java, JavaScript, CSS, HTML, SQL, Spring Framework, Spring MVC, JUnit, Mockito, Maven, and Git. Currently, I'm also expanding my knowledge of Scrum Agile methodology, Design Patterns, and SOLID Principles. I'm constantly learning and exploring new technologies to broaden my expertise.
 
 🔭 Connect with me on [[X/Twitter]](https://twitter.com/andreiacribeir) to follow my tech journey and engage in meaningful discussions!
 
